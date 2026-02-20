@@ -14,7 +14,26 @@
 
 ## 🚀 Featured Projects
 
-<img src="https://avatars.githubusercontent.com/noemi-paradise?v=4&s=88" alt="Noemi Paradise" width="88" /> My public AI agent playground 🦜 OpenClaw multi-agent orchestration in action
+<div align="center">
+
+<table>
+  <tr>
+    <td width="96" valign="top" align="center">
+      <a href="https://github.com/noemi-paradise" target="_blank">
+        <img src="https://avatars.githubusercontent.com/noemi-paradise?v=4&s=88" alt="Noemi Paradise" width="88" style="border-radius:12px;" />
+      </a>
+    </td>
+    <td valign="top" align="left" width="560" style="padding-left:12px">
+      <p style="margin:0;"><strong><a href="https://github.com/Noemi-Paradise/OpenClaw" target="_blank">OpenClaw.ai — Public agent playground</a></strong></p>
+      <p style="margin:6px 0 0 0;color:#9aa0a6">Multi-agent orchestration demo (Noemi + sub-agents). Contains example agents, plugin catalog and quick-start instructions for running local LLMs and routing tasks between agents.</p>
+      <p style="margin:8px 0 0 0;">
+        🔗 <a href="https://github.com/Noemi-Paradise/OpenClaw" target="_blank">Repo</a> • 🧪 <a href="#" target="_blank">Demo</a> • 📝 <a href="#" target="_blank">Docs</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 > 💡 _I maintain **several anonymous GitHub accounts** for experimental work - the real magic happens there!_
 
