@@ -1,2 +1,80 @@
-# Peter-Eloy
+<div align="center">
 
+# 👋 Hi there, I'm Pi-El!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CD9F9&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%26+AI+Architect;OpenClaw.ai+Creator;GPU+Optimizer;Hydroponics+Enthusiast;Local+LLM+Deployer" alt="Typing SVG" />
+</div>
+
+**Building multi-agent AI systems on custom hardware from Las Palmas de Gran Canaria 🌴**
+
+![Emperor Rig](./assets/local.jpeg) _My beast: Emperor - crushing LLMs with OCuLink eGPU_
+
+</div>
+
+## 🚀 Featured Projects
+
+[![Noemi Paradise](https://github-readme-stats.vercel.app/api/pin/?username=noemi-paradise&repo=noemi-paradise&theme=radical)](https://github.com/noemi-paradise)
+**Noemi Paradise** - My public AI agent playground 🦜 OpenClaw multi-agent orchestration in action
+
+> 💡 _I maintain **several anonymous GitHub accounts** for experimental work - the real magic happens there!_
+
+## 💼 Professional Work
+
+<div align="center">
+  
+**🟢 For my day job (Go + React), we use private Git repos**  
+![Green Git Profile](./assets/image.png)
+ 
+*Replace with your screenshot of those beautiful green git boxes!*
+  
+</div>
+
+## 🛠️ Tech Stack
+
+🤖 AI/ML: Ollama - vLLM - Llama3 - Qwen - DeepSeek - Q4_K_M quantization
+🐳 DevOps: Docker - Ubuntu - CUDA 12.x
+⚡ Hardware: RTX 5080 - Ryzen AI 9 HX370 - OCuLink - 128GB DDR5
+💻 Full-Stack: Python - Bash - JavaScript - PostgreSQL - Supabase
+🛠️ Professional: Go - React - Company Git repos (🔒 Private)
+🌱 Side Hustle: Hydroponics IoT + AI monitoring (MoldBot coming soon!)
+
+## 📱 Connect With Me
+
+<div align="center">
+
+**🤖 **Best way:** Direct call - DM me here on GitHub!**
+
+**[📝 Read my blog & CV →](https://www.tumblr.com/blog/peter-eloy)**  
+_(Serverless setup - Tumblr hosts it lightning-fast)_
+
+**🐦 Follow on X:** [@petereloy](https://x.com/petereloy) _Latest AI experiments & late-night coding sessions_
+
+</div>
+
+## 🔥 Currently Building
+
+- 🔄 **OpenClaw.ai** - Multi-agent LLM orchestration (Noemi + sub-agents)
+- 🧪 **Windows → Ubuntu migration** for Emperor AI server
+- 🌿 **Hydroponic MoldBot** - AI-powered grow monitoring
+- ⚡ **vLLM + Lemonade Server** multi-model switching
+
+<div align="center">
+  
+![Pi-El's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pi-El&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pi-El&layout=compact&theme=radical&hide_border=true)
+
+**🦜 Streak Stats**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pi-El&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  
+*⚡ Powered by local LLMs • Built on Emperor rig • Optimized for late-night coding*  
+![Footer](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=github)
+
+</div>
