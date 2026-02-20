@@ -14,8 +14,7 @@
 
 ## 🚀 Featured Projects
 
-![Noemi Paradise](https://github.com/noemi-paradise)
-**Noemi Paradise** - My public AI agent playground 🦜 OpenClaw multi-agent orchestration in action
+![Noemi Paradise](https://github.com/noemi-paradise) - My public AI agent playground 🦜 OpenClaw multi-agent orchestration in action
 
 > 💡 _I maintain **several anonymous GitHub accounts** for experimental work - the real magic happens there!_
 
@@ -44,7 +43,7 @@
 
 **🤖 **Best way:** Direct call - DM on WhatsApp!**
 
-**[📝 Read my blog on my CV →](https://www.petereloy.dev)**  
+**[📝 My CV with a blog →](https://www.petereloy.dev)**  
 **[📝 Read my blog on tumblr →](https://www.tumblr.com/blog/peter-eloy)**  
 _(Serverless setup - Tumblr hosts it lightning-fast)_
 
