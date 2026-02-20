@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 
-![Noemi Paradise](https://github-readme-stats.vercel.app/api/pin/?username=noemi-paradise&repo=noemi-paradise&theme=radical)](https://github.com/noemi-paradise)
+![Noemi Paradise](https://github-readme-stats.vercel.app/api/pin/?username=noemi-paradise&repo=noemi-paradise&theme=radical)(https://github.com/noemi-paradise)
 **Noemi Paradise** - My public AI agent playground 🦜 OpenClaw multi-agent orchestration in action
 
 > 💡 _I maintain **several anonymous GitHub accounts** for experimental work - the real magic happens there!_
