@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Pi-El!
+# 👋 Hi there, I'm Peter-Eloy!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CD9F9&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%26+AI+Architect;OpenClaw.ai+Creator;GPU+Optimizer;Hydroponics+Enthusiast;Local+LLM+Deployer" alt="Typing SVG" />
@@ -61,12 +61,12 @@ _(Serverless setup - Tumblr hosts it lightning-fast)_
 
 <div align="center">
   
-![Pi-El's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pi-El&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Pi-El's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peter-Eloy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pi-El&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Eloy&layout=compact&theme=radical&hide_border=true)
 
 **🦜 Streak Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pi-El&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peter-Eloy&theme=radical&hide_border=true)
 
 </div>
 
