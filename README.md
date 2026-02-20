@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 
-![Noemi Paradise](https://github.com/noemi-paradise) - My public AI agent playground 🦜 OpenClaw multi-agent orchestration in action
+<img src="https://avatars.githubusercontent.com/noemi-paradise?v=4&s=88" alt="Noemi Paradise" width="88" /> My public AI agent playground 🦜 OpenClaw multi-agent orchestration in action
 
 > 💡 _I maintain **several anonymous GitHub accounts** for experimental work - the real magic happens there!_
 
