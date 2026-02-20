@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CD9F9&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%26+AI+Architect;OpenClaw.ai+Creator;GPU+Optimizer;Hydroponics+Enthusiast;Local+LLM+Deployer" alt="Typing SVG" />
 </div>
 
-**Building multi-agent AI systems on custom hardware from Las Palmas de Gran Canaria 🌴**
+**Building multi-agent AI systems on custom hardware 🌴**
 
 ![Emperor Rig](./assets/local.jpeg) _My beast: Emperor - crushing LLMs with OCuLink eGPU_
 
@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 
-[![Noemi Paradise](https://github-readme-stats.vercel.app/api/pin/?username=noemi-paradise&repo=noemi-paradise&theme=radical)](https://github.com/noemi-paradise)
+![Noemi Paradise](https://github-readme-stats.vercel.app/api/pin/?username=noemi-paradise&repo=noemi-paradise&theme=radical)](https://github.com/noemi-paradise)
 **Noemi Paradise** - My public AI agent playground 🦜 OpenClaw multi-agent orchestration in action
 
 > 💡 _I maintain **several anonymous GitHub accounts** for experimental work - the real magic happens there!_
@@ -26,7 +26,6 @@
 **🟢 For my day job (Go + React), we use private Git repos**  
 ![Green Git Profile](./assets/image.png)
  
-*Replace with your screenshot of those beautiful green git boxes!*
   
 </div>
 
@@ -37,15 +36,16 @@
 ⚡ Hardware: RTX 5080 - Ryzen AI 9 HX370 - OCuLink - 128GB DDR5
 💻 Full-Stack: Python - Bash - JavaScript - PostgreSQL - Supabase
 🛠️ Professional: Go - React - Company Git repos (🔒 Private)
-🌱 Side Hustle: Hydroponics IoT + AI monitoring (MoldBot coming soon!)
+🌱 Side Hustle: Hydroponics IoT + AI monitoring (OpenClaw coming soon!)
 
 ## 📱 Connect With Me
 
 <div align="center">
 
-**🤖 **Best way:** Direct call - DM me here on GitHub!**
+**🤖 **Best way:** Direct call - DM on WhatsApp!**
 
-**[📝 Read my blog & CV →](https://www.tumblr.com/blog/peter-eloy)**  
+**[📝 Read my blog on my CV →](https://www.petereloy.dev)**  
+**[📝 Read my blog on tumblr →](https://www.tumblr.com/blog/peter-eloy)**  
 _(Serverless setup - Tumblr hosts it lightning-fast)_
 
 **🐦 Follow on X:** [@petereloy](https://x.com/petereloy) _Latest AI experiments & late-night coding sessions_
@@ -56,7 +56,7 @@ _(Serverless setup - Tumblr hosts it lightning-fast)_
 
 - 🔄 **OpenClaw.ai** - Multi-agent LLM orchestration (Noemi + sub-agents)
 - 🧪 **Windows → Ubuntu migration** for Emperor AI server
-- 🌿 **Hydroponic MoldBot** - AI-powered grow monitoring
+- 🌿 **Hydroponic OpenClaw** - AI-powered grow monitoring
 - ⚡ **vLLM + Lemonade Server** multi-model switching
 
 <div align="center">
