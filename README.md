@@ -64,10 +64,6 @@ _(Serverless setup - Tumblr hosts it lightning-fast)_
 - ⚡ **vLLM + Lemonade Server** multi-model switching
 
 <div align="center">
-  
-![Pi-El's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peter-Eloy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Eloy&layout=compact&theme=radical&hide_border=true)
 
 **🦜 Streak Stats**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peter-Eloy&theme=radical&hide_border=true)
