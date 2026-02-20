@@ -48,8 +48,9 @@
 
 **🤖 **Best way:** Direct call - DM on WhatsApp!**
 
-**[📝 My CV with a blog →](https://www.petereloy.dev)**  
+**[📝 My CV with a blog →](https://www.petereloy.dev)**
 _(Serverless setup - lightning-fast + easter eggs)_
+
 **[📝 Read my blog on tumblr →](https://www.tumblr.com/blog/peter-eloy)**  
 _(Tumblr, because yes!)_
 
