@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Peter-Eloy!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CD9F9&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%26+AI+Architect;OpenClaw.ai+Creator;GPU+Optimizer;Hydroponics+Enthusiast;Local+LLM+Deployer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CD9F9&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%26+AI+Architect;OpenClaw.ai+Contributor;GPU+Optimizer;Hydroponics+Enthusiast;Local+LLM+Deployer" alt="Typing SVG" />
 </div>
 
 **Building multi-agent AI systems on custom hardware 🌴**
