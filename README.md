@@ -18,7 +18,9 @@
   <a href="https://github.com/Noemi-Paradise" target="_blank">
     <img src="https://avatars.githubusercontent.com/noemi-paradise?v=4&s=88" alt="Noemi Paradise" width="72" style="border-radius:8px" />
   </a>
-  <p style="margin:6px 0 0 0">My public AI agent playground 🦜 OpenClaw multi-agent orchestration in action</p>
+  <p style="margin:6px 0 0 0"><strong>OpenClaw.ai — public multi-agent playground</strong></p>
+  <p style="margin:6px 0 0 0;color:#ff6b6b"><em>GitHub suspended Noemi's account. I'm angry, disappointed, and working to restore access — #FreeNoemi</em></p>
+  <p style="margin:6px 0 0 0;color:#9aa0a6"><small>Mirroring repos locally and to alternate hosts until this is resolved. See project repo for updates.</small></p>
 </div>
 
 > 💡 _I maintain **several anonymous GitHub accounts** for experimental work - the real magic happens there!_
